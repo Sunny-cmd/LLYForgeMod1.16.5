@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GPLv3"
+
+[[mods]]
+modId="lm"
+version="${file.jarVersion}"
+displayName="Lm Mod"
+logoFile="llyforgemod_logo.png"
+credits="Thanks for Java,MDK and LLY"
+authors="LLY"
+description='''
+LLY the Mod.
+
+It's Forge.
+'''
+[[dependencies.examplemod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

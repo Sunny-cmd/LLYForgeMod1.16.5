@@ -1,0 +1,12 @@
+{
+  "group": "liangingot",
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "lm:liang_ore"
+  },
+  "result": {
+    "item": "lm:liang_ingot"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lm:block/liang_block_model" }
+  }
+}
