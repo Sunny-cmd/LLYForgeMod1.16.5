@@ -1,4 +1,4 @@
-package cn.github.lly.blocks;
+package cn.github.lly.groups.blocks;
 
 import cn.github.lly.Utils;
 import net.minecraft.block.Block;

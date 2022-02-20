@@ -1,6 +1,6 @@
 package cn.github.lly;
 
-import cn.github.lly.blocks.BlockRegistry;
+import cn.github.lly.groups.blocks.BlockRegistry;
 import cn.github.lly.items.ItemRegistry;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
