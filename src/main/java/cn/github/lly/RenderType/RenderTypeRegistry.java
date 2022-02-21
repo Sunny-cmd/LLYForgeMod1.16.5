@@ -1,6 +1,6 @@
 package cn.github.lly.RenderType;
 
-import cn.github.lly.groups.blocks.BlockRegistry;
+import cn.github.lly.blocks.BlockRegistry;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraftforge.api.distmarker.Dist;

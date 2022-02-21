@@ -1,7 +1,7 @@
 package cn.github.lly.items;
 
 import cn.github.lly.Utils;
-import cn.github.lly.groups.blocks.BlockRegistry;
+import cn.github.lly.blocks.BlockRegistry;
 import cn.github.lly.groups.ModGroup;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
